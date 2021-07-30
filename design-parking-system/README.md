@@ -1,3 +1,4 @@
+[Discussion Post (created on 30/6/2021 at 18:4)](https://leetcode.com/problems/design-parking-system/discuss/1372345/java)  
 <h2>1603. Design Parking System</h2><h3>Easy</h3><hr><div><p>Design a parking system for a parking lot. The parking lot has three kinds of parking spaces: big, medium, and small, with a fixed number of slots for each size.</p>
 
 <p>Implement the <code>ParkingSystem</code> class:</p>
